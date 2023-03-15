@@ -10,15 +10,6 @@
 		"publisher": "Bloomsbury",
 		"cost": 1299,
 		"borrowed": false,
-  },{
-    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-    "book_name": "Harry Potter 2",
-    "author": "J. K. Rowling",
-		"genre": "fiction",
-		"edition": "2022",
-		"publisher": "Bloomsbury",
-		"cost": 1399,
-		"borrowed": false,
   }
-],
+]
 }
